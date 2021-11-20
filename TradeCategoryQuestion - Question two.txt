@@ -1,0 +1,10 @@
+Question Two:
+
+I would add the IsPoliticallyExposed property to the ITrade interface, 
+add the property handling in the Trade class constructor and, if true, 
+set the value "Is Politically Exposed" to the _clientSector variable. 
+Finally, I would add it to the tradecategories.xml file to handle the 
+new PEP category.
+
+For example:
+<category name="PEP" sector="Politically Exposed Person" minValue="0" maxValue="0" />	
