@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<categories>
+	<category name="HIGHRISK"   custumerSector="Private" condition=">" limitValue="1000000" />
+	<category name="MEDIUMRISK" custumerSector="Public"  condition=">" limitValue="1000000" />	
+</categories>

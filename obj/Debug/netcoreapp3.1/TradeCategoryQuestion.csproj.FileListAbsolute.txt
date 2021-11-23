@@ -1,0 +1,14 @@
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\netcoreapp3.1\TradeCategoryQuestion.exe
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\netcoreapp3.1\TradeCategoryQuestion.deps.json
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\netcoreapp3.1\TradeCategoryQuestion.runtimeconfig.json
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\netcoreapp3.1\TradeCategoryQuestion.runtimeconfig.dev.json
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\netcoreapp3.1\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\netcoreapp3.1\TradeCategoryQuestion.pdb
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\netcoreapp3.1\TradeCategoryQuestion.csproj.AssemblyReference.cache
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\netcoreapp3.1\TradeCategoryQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\netcoreapp3.1\TradeCategoryQuestion.AssemblyInfoInputs.cache
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\netcoreapp3.1\TradeCategoryQuestion.AssemblyInfo.cs
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\netcoreapp3.1\TradeCategoryQuestion.csproj.CoreCompileInputs.cache
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\netcoreapp3.1\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\netcoreapp3.1\TradeCategoryQuestion.pdb
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\netcoreapp3.1\TradeCategoryQuestion.genruntimeconfig.cache

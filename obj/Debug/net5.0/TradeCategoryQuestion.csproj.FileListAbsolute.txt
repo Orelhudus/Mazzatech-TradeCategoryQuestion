@@ -1,0 +1,32 @@
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.AssemblyInfoInputs.cache
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.AssemblyInfo.cs
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.csproj.CoreCompileInputs.cache
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.exe
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.deps.json
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.runtimeconfig.json
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.runtimeconfig.dev.json
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\net5.0\ref\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.pdb
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\net5.0\ref\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.pdb
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.genruntimeconfig.cache
+C:\Users\BRX0001192\Documents\Pessoal\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.csproj.AssemblyReference.cache
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.csproj.AssemblyReference.cache
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.AssemblyInfoInputs.cache
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.AssemblyInfo.cs
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.csproj.CoreCompileInputs.cache
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\obj\Debug\net5.0\ref\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.pdb
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.exe
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.deps.json
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.runtimeconfig.json
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.runtimeconfig.dev.json
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\bin\Debug\net5.0\ref\TradeCategoryQuestion.dll
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\bin\Debug\net5.0\TradeCategoryQuestion.pdb
+C:\Users\BRX0001192\Documents\Pessoal\Nova pasta\TradeCategoryQuestion\obj\Debug\net5.0\TradeCategoryQuestion.genruntimeconfig.cache
